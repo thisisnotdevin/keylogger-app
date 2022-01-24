@@ -43,7 +43,7 @@ pynput allows you to control and monitor input devices. Currently, mouse and key
 ## Other
 
 - I used a [ASCII text generator](https://patorjk.com/software/taag/#p=display&f=Slant&t=KeyLogger) to make the Keylogger text that pops up on the terminal in the picture above. 
-- I used the smtplib library to produce the sending email feature, most keyloggers save the words in a text file, but I felt like sending it in an email is more of how a hacker would do it.
+- I used the smtplib library to produce the sending email feature, most keyloggers save the words in a text file, but I felt like sending it in an email is more of how a hacker would do it. https://realpython.com/python-send-email/
 - used this as reference for the code https://pypi.org/project/pynput/
 
 
