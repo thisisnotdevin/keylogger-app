@@ -1,7 +1,11 @@
 # Keylogger App
 Keylogging application that sends log to email!
-The purpose of this program is to learn the basics of cybersecurity and the libraries from Python
+The purpose of this program is to learn the basics of cybersecurity and the libraries from Python. 
 
+## What is a keylogger?
+A keylogger, often known as a keystroke logger, is software that can track keystrokes in a computer system. It has the ability to monitor every data typed via a keyboard. There is also software that identifies whether or not there is a keylogger on the PC. This could be useful if someone has installed a keylogger to monitor all keystrokes.
+
+## Preview
 ![image](https://user-images.githubusercontent.com/66978846/150712645-425da74a-8820-4cbf-b2d4-f253334d1397.png)
 
 ## Introduction
